@@ -14,7 +14,7 @@ Fichiers :
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Fifty Shades of White (Pinkman)](https://hackropole.fr/fr/challenges/reverse/fcsc2024-reverse-fifty-shades-of-white-2/)
 
